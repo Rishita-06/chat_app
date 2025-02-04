@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "906271042039",
+    "project_id": "flash-chat-b3faf",
+    "storage_bucket": "flash-chat-b3faf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906271042039:android:59ef33f3dc385a97cb66f2",
+        "android_client_info": {
+          "package_name": "co.RishitaSingh.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx1IkvB-jJ_eruhBLkxTsE5leF3n2GYrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
